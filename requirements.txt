@@ -1,0 +1,4 @@
+flask
+uwsgi
+flask_sqlalchemy
+psycopg2-binary
